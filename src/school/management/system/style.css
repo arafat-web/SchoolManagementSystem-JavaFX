@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 25, 2020, 10:26:41 PM
+    Author     : Arafat Hossain Ar
+*/
+
+.leftmenu{
+    -fx-background-color: #006699;
+}
+.leftmenubutton{
+    -fx-background-color: #006699;
+    -fx-background-radius: 20 0 0 20;
+    -fx-border-color: #000055;
+    -fx-border-radius: 20 0 0 20;
+    -fx-cursor: hand;
+
+}
+.leftmenubutton:hover{
+    -fx-background-color: #005888;
+
+}
+.topbar{
+    -fx-background-color: #FFFFFF;
+}
+.topbarbutton{
+    -fx-cursor: hand;
+}
+.topText{
+    -fx-background-color: #0099ff;
+}
+.middlemenu{
+    -fx-background-color: #FFFFFF;
+}
+.middlemenus{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 5px;
+    -fx-border-color: #000034;
+    -fx-border-radius: 5px;
+    -fx-cursor: hand;
+}
+.middlemenus:hover{
+    -fx-background-color: #cccccc;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-border-color: black;
+}
+.stylebar{
+    -fx-background-radius: 0px 0px 20px 20px;
+    -fx-border-radius: 0px 0px 20px 20px;
+    -fx-border-color: transparent;
+}
